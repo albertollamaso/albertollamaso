@@ -126,7 +126,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="211.55330470187965" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="211.55330470187965" y="0" width="97.35815717552569" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="308.9114618774054" y="0" width="67.58913492107759" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="376.50059679848295" y="0" width="24.758770706676334" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="376.50059679848295" y="0" width="24.758770706676334" height="8" fill="#844FBA"/>
                     <rect mask="url(#languages-bar)" x="401.2593675051593" y="0" width="20.34170338557644" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="421.6010708907357" y="0" width="16.42442969490769" height="8" fill="#724b3b"/>
                     <rect mask="url(#languages-bar)" x="438.0255005856434" y="0" width="15.164169780802053" height="8" fill="#427819"/>
@@ -153,7 +153,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HCL
                     </div>
