@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-I'm a SRE engineer currently working at Evooq.
-
-- [LinkedIn](https://www.linkedin.com/in/alberto-llamas/)
-- [Twitter](https://twitter.com/allamaso)
-
 <a href="https://github.com/albertollamaso">
   <img align="center" width="49%" src="./header.svg" />
 </a>
